@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=DannySol1s&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
-<hr style="border: 2px solid #00F7FF;" />
+<hr style="border: 2px solid #004cffff;" />
 
 ## 🧠 Sobre mí
 
@@ -90,19 +90,6 @@ Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la 
 </p>
 
 </div>
-
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannySol1s&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannySol1s&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
