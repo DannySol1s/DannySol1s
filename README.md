@@ -1,91 +1,56 @@
-<div style="text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px; margin-bottom: 20px;">
-
 # 👨‍💻 Ángel Daniel Solís Pérez
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+en+formación;Apasionado+por+la+tecnología;Aprendizaje+constante+🚀">
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+en+formación;Apasionado+por+la+tecnología;Aprendizaje+constante+🚀">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DannySol1s&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
-<div style="background: linear-gradient(90deg, #00F7FF, #764ba2, #667eea); height: 3px; border-radius: 2px;"></div>
-
-
-<br>
-
-<div style="background: rgba(102, 126, 234, 0.1); border-left: 4px solid #667eea; padding: 20px; border-radius: 5px; margin: 20px 0;">
+<hr style="border: 2px solid #00F7FF;" />
 
 ## 🧠 Sobre mí
+
 
 Soy estudiante de **Ingeniería en Sistemas Computacionales** apasionado por la tecnología, enfocado en desarrollar soluciones donde la funcionalidad y la estética trabajen en conjunto. Me considero adaptable y en constante aprendizaje, buscando mejorar mis habilidades en cada proyecto.
 
 Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimizar flujos de trabajo, acelerar el aprendizaje de nuevos frameworks y fortalecer la arquitectura de mis proyectos.
 
-</div>
+<div align="center">
 
-<div align="center" style="margin: 30px 0;">
-
-| 🎯 | 🚀 | 🤝 |
-|:---:|:---:|:---:|
-| **Meta** | **Enfoque** | **Colaboración** |
-| Formarme como desarrollador Full Stack | Innovación y aprendizaje constante | Trabajo en equipo con metodologías ágiles |
+| 🎯 Meta | 🚀 Enfoque | 🤝 Colaboración |
+|---------|-----------|-----------------|
+| Formarme como desarrollador Full Stack | Innovación, aprendizaje constante y desarrollo de soluciones funcionales | Entusiasta del trabajo en equipo bajo metodologías ágiles (Scrum) |
 
 </div>
 
-<br>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 30px 0;">
-  <div style="background: white; padding: 30px; border-radius: 8px;">
+---
 
 ## 💼 Áreas de Especialidad
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-top: 20px;">
+### 🎨 Diseño, Estética y Estructura
+- **UI/UX & Estilos:** Enfoque en la selección armónica de paletas de colores y layouts modernos con **Tailwind CSS**
+- **Arquitectura Visual:** Diseño de interfaces limpias, intuitivas y totalmente responsivas
+- **Topologías y Diagramación:** Interés en la estructuración visual de sistemas y arquitecturas de software
 
-<div style="background: linear-gradient(135deg, #667eea15, #764ba215); border-left: 4px solid #667eea; padding: 15px; border-radius: 8px;">
+### 📝 Documentación y Resolución
+- **Documentación Técnica:** Habilidad para redactar manuales de usuario y guías claras para facilitar el mantenimiento y la colaboración
+- **Análisis de Problemas:** Enfoque lógico para el debugging y la optimización de procesos existentes
 
-### 🎨 Diseño & UX
-- UI/UX con **Tailwind CSS**
-- Interfaces responsivas
-- Arquitectura visual
-
-</div>
-
-<div style="background: linear-gradient(135deg, #00F7FF15, #667eea15); border-left: 4px solid #00F7FF; padding: 15px; border-radius: 8px;">
-
-### 📝 Documentación
-- Manuales técnicos
-- Guías claras
-- Debugging lógico
-
-</div>
-
-<div style="background: linear-gradient(135deg, #764ba215, #00F7FF15); border-left: 4px solid #764ba2; padding: 15px; border-radius: 8px;">
-
-### 🤖 AI-Assisted Dev
-- Ideación con IA
-- Ingeniería de prompts
-- Curación técnica
-
-</div>
-
-</div>
-
-  </div>
-</div>
+### 🤖 Desarrollo Asistido por IA (AI-Assisted Development)
+Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la calidad de mis entregas:
+- **Ideación y Soluciones:** Uso de IA como apoyo fundamental para la generación de ideas innovadoras y la resolución de problemas lógicos
+- **Ingeniería de Prompts:** Especialización en la redacción de instrucciones precisas para obtener resultados técnicos de alta calidad
+- **Curación Técnica:** Revisión, análisis y adaptación profunda del código generado para comprender su funcionamiento y asegurar su integración óptima
 
 
 
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 30px 0;">
-  <div style="background: white; padding: 30px; border-radius: 8px;">
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-<h3 style="color: #667eea;">💻 Frontend</h3>
+### 💻 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
@@ -94,13 +59,13 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
-<h3 style="color: #667eea;">📱 Mobile & Hybrid</h3>
+### 📱 Mobile & Hybrid
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor"/>
 </p>
 
-<h3 style="color: #667eea;">⚙️ Backend & Cloud</h3>
+### ⚙️ Backend & Cloud
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -108,14 +73,14 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
   <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black"/>
 </p>
 
-<h3 style="color: #667eea;">🔐 Fundamentos Técnicos</h3>
+### 🔐 Fundamentos Técnicos
 <p>
   <img src="https://img.shields.io/badge/Ciberseguridad-red?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redes-grey?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
 </p>
 
-<h3 style="color: #667eea;">🧰 Herramientas & Workflow</h3>
+### 🧰 Herramientas & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
@@ -125,13 +90,8 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
 
 </div>
 
-  </div>
-</div>
 
 ---
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 30px 0;">
-  <div style="background: white; padding: 30px; border-radius: 8px;">
 
 ## 📊 Estadísticas GitHub
 
@@ -143,48 +103,22 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannySol1s&layout=compact&theme=tokyonight" />
 </p>
 
-  </div>
-</div>
-
-
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 30px 0;">
-  <div style="background: white; padding: 30px; border-radius: 8px;">
+---
 
 ## 📬 Conexión y Contacto
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
 
 ### 📧 Colaboraciones
-<p style="font-size: 16px; color: #555;">Abierto a participar en <strong>proyectos innovadores</strong> y <strong>retos técnicos</strong></p>
-
-<p>
-  <a href="https://github.com/DannySol1s" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:tu-email@example.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
-<div style="background: linear-gradient(90deg, #667eea15, #764ba215); border-left: 4px solid #00F7FF; padding: 20px; border-radius: 8px; margin-top: 20px;">
+Abierto a participar en proyectos innovadores y retos técnicos.
 
 ### ⚡ Nota Personal
 > *Este perfil está en constante evolución, al igual que mis habilidades. Cada commit es un paso más en mi formación como Ingeniero.* 🚀
 
-</div>
+---
 
-<br>
-
-<p align="center" style="font-size: 14px; color: #667eea;">
-  <strong>¡Gracias por visitar mi perfil! 👋</strong>
+<p>
+  <strong>Gracias por visitar mi perfil 👋</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=667eea&size=14&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4+by+DannySol1s" />
-</p>
-
-  </div>
 </div>
