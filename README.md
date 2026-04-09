@@ -24,7 +24,6 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
 | 🎯 Meta | 🚀 Enfoque | 🤝 Colaboración |
 |---------|-----------|-----------------|
 | Formarme como desarrollador Full Stack | Innovación, aprendizaje constante y desarrollo de soluciones funcionales | Entusiasta del trabajo en equipo bajo metodologías ágiles (Scrum) |
-
 </div>
 
 ---
