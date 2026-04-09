@@ -13,7 +13,7 @@
 ## 🧠 Sobre mí
 
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en construir soluciones donde la funcionalidad y la estética convergen. Soy un apasionado por la tecnología, enfocado en desarrollar soluciones donde la funcionalidad y la estética trabajen en conjunto. Me considero adaptable y en constante aprendizaje, buscando mejorar mis habilidades en cada proyecto.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** apasionado por la tecnología, enfocado en desarrollar soluciones donde la funcionalidad y la estética trabajen en conjunto. Me considero adaptable y en constante aprendizaje, buscando mejorar mis habilidades en cada proyecto.
 
 Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimizar flujos de trabajo, acelerar el aprendizaje de nuevos frameworks y fortalecer la arquitectura de mis proyectos.
 
