@@ -51,43 +51,13 @@ Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la 
 
 <div align="center">
 
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
-
-### 📱 Mobile & Hybrid
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor"/>
-</p>
-
-### ⚙️ Backend & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black"/>
-</p>
-
-### 🔐 Fundamentos Técnicos
-<p>
-  <img src="https://img.shields.io/badge/Ciberseguridad-red?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redes-grey?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-</p>
-
-### 🧰 Herramientas & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm"/>
-  <img src="https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun"/>
-</p>
+| Categoría | Stack Tecnológico |
+| :--- | :--- |
+| **💻 Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Cloud** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
+| **Fundamentos Técnicos** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Cisco](https://img.shields.io/badge/-Redes-040303?style=flat-square&logo=cisco&logoColor=white) ![Fortinet](https://img.shields.io/badge/-Ciberseguridad-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
+| **Herramientas & Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white) |
 
 </div>
 
