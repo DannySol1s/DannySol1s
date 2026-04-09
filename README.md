@@ -42,7 +42,7 @@ Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la 
 - **Curación Técnica:** Revisión, análisis y adaptación profunda del código generado para comprender su funcionamiento y asegurar su integración óptima
 
 
-
+---
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
@@ -58,18 +58,28 @@ Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la 
 </div>
 
 ---
+## 🤝 Comunidad y Mentoría
 
+<div align="center">
+
+> "Creo firmemente que el conocimiento solo crece cuando se comparte."
+>
+> Si estás empezando en el mundo del desarrollo, tienes dudas sobre cómo integrar la IA en tu flujo de trabajo o simplemente quieres rebotar ideas sobre un proyecto: **mi bandeja de entrada está abierta.**
+>
+> Mi meta no es solo construir software, sino ayudar a otros a construir su camino en esta industria. **¡Hablemos!**
+
+</div>
+
+---
 ## 📬 Conexión y Contacto
 
 <div align="center">
 
-## 🌐 Contacto y Redes
+### 📧 Colaboraciones
+Abierto a participar en proyectos innovadores y retos técnicos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ángel-daniel-solís-pérez-b02b65296)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeld.solisp@gmail.com)
-
-### 📧 Colaboraciones
-Abierto a participar en proyectos innovadores y retos técnicos.
 
 ### ⚡ Nota Personal
 > *Este perfil está en constante evolución, al igual que mis habilidades. Cada commit es un paso más en mi formación como Ingeniero.* 🚀
