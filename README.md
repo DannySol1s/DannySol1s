@@ -1,4 +1,6 @@
-# 👨‍💻 Ángel Daniel Solís Pérez
+<div align="center">
+  <img src="profile_header.png" width="800" alt="Ángel Daniel Solís Pérez - Full Stack | AI" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+en+formación;Apasionado+por+la+tecnología;Aprendizaje+constante+🚀">
