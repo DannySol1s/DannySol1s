@@ -37,9 +37,9 @@ Utilizo la **Inteligencia Artificial** como un copiloto estratégico para optimi
 
 ### 🤖 Desarrollo Asistido por IA (AI-Assisted Development)
 Utilizo la Inteligencia Artificial como un copiloto estratégico para elevar la calidad de mis entregas:
-- **Ideación y Soluciones:** Uso de IA como apoyo fundamental para la generación de ideas innovadoras y la resolución de problemas lógicos
-- **Ingeniería de Prompts:** Especialización en la redacción de instrucciones precisas para obtener resultados técnicos de alta calidad
-- **Curación Técnica:** Revisión, análisis y adaptación profunda del código generado para comprender su funcionamiento y asegurar su integración óptima
+- **Ideación y Soluciones:** Uso de IA como apoyo fundamental para la generación de ideas innovadoras y la resolución de problemas lógicos.
+- **Ingeniería de Prompts:** Especialización en la redacción de instrucciones precisas para obtener resultados técnicos de alta calidad.
+- **Curación Técnica:** Revisión, análisis y adaptación profunda del código generado para comprender su funcionamiento y asegurar su integración óptima.
 
 
 ---
