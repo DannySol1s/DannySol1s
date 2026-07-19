@@ -82,7 +82,7 @@ Abierto a participar en proyectos innovadores y retos técnicos.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeld.solisp@gmail.com)
 
 ### ⚡ Nota Personal
-> *Este perfil está en constante evolución, al igual que mis habilidades. Cada commit es un paso más en mi formación como Ingeniero.* 🚀
+> *Este perfil está en constante evolución, al igual que mis habilidades. Cada commit es un paso más en mi formación como Ingeniero, guiado siempre por tres reglas clave: **constancia, paciencia y práctica**.* 🚀
 
 ---
 
