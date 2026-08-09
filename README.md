@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Web+en+Formación;Aprendo+Construyendo+Proyectos+Reales+🚀">
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Web+en+Formación;Aprendo+Construyendo+Proyectos+Reales+🚀">
 </p>
 
 <div align="center">
@@ -42,6 +42,19 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el des
 | **📱 Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
 | **🔐 Fundamentos Técnicos** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
 | **🧰 Herramientas & Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-pi-ten-40.vercel.app/api?username=DannySol1s&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Estadísticas de GitHub de DannySol1s" />
+<img height="165em" src="https://github-readme-stats-pi-ten-40.vercel.app/api/top-langs/?username=DannySol1s&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" alt="Lenguajes más usados por DannySol1s" />
+
+<img src="https://streak-stats.demolab.com/?user=DannySol1s&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="Racha de contribuciones de DannySol1s" />
 
 </div>
 
