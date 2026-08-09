@@ -2,10 +2,6 @@
   <img src="profile_header.png" width="800" alt="Ángel Daniel Solís Pérez" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Web+en+Formación;Aprendo+Construyendo+Proyectos+Reales+🚀">
-</p>
-
 <div align="center">
 
 📍 Escárcega, Campeche, México
@@ -54,12 +50,6 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el des
 <img height="180em" src="https://github-readme-stats-pi-ten-40.vercel.app/api/top-langs/?username=DannySol1s&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&locale=es" alt="Lenguajes más usados por DannySol1s" />
 
 <img src="https://streak-stats.demolab.com/?user=DannySol1s&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&locale=es" alt="Racha de contribuciones de DannySol1s" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DannySol1s/DannySol1s/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DannySol1s/DannySol1s/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DannySol1s/DannySol1s/output/github-contribution-grid-snake.svg" alt="Snake animado del contribution graph de DannySol1s" />
-</picture>
 
 </div>
 
