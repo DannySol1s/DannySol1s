@@ -61,10 +61,11 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el des
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[🌦️ WeatherFlow](https://github.com/DannySol1s/WeatherFlow-Hybrid-App)** | App meteorológica híbrida con motor de diagnóstico propio y datos en tiempo real | `React 19` `Supabase` `Python` |
-| **[📊 BigData Ambiental](https://github.com/DannySol1s/BigData-Analisis-y-Procesamiento-de-Datos)** | Procesamiento de datos estructurados y no estructurados con minería de textos | `Python` `PostgreSQL` |
-| **[🎮 Desafío Jaguar 3.0](https://github.com/DannySol1s/Desafio_Jaguar_3.0)** | Hub interactivo de videojuegos con carrusel animado y navegación por teclado | `JavaScript ES6` `Vite` |
-| **[🎨 BlogP-Art](https://github.com/DannySol1s/BlogP-Art)** | Portafolio artístico de página única | `React` `Vite` `Tailwind` |
+| **[📱 AGRO-NET](https://github.com/DannySol1s/AGRO-NET)** | App móvil offline-first para productores rurales: guías de agroindustria, calculadora de costos y estándares NOM/Codex para 100 productos | `React Native` `Expo` `SQLite` `Drizzle ORM` |
+| **[🎮 POO — TVRG](https://github.com/DannySol1s/POO)** | Plataforma de trivia gamificada sobre POO con validación server-side anti-trampa, ranking global y 4 modos de dificultad — [demo en vivo ↗](https://poo-tvrg.vercel.app) | `Bun` `Hono` `Turso` `React` `PWA` |
+| **[💸 Finvia V2](https://github.com/DannySol1s/FinviaV2_Frontend)** | Panel de control web para F.I.N., asistente financiero personal vía Telegram: gráficas en tiempo real, presupuesto semanal y categorías adaptativas | `SvelteKit` `TypeScript` `Supabase` `Chart.js` |
+| **[🌦️ WeatherFlow](https://github.com/DannySol1s/WeatherFlow-Hybrid-App)** | App meteorológica híbrida con pipeline de automatización Python→Supabase, motor de diagnóstico propio y compilación como APK Android | `React 19` `Python` `Supabase` `Capacitor` |
+| **[🃏 Duel Disks: Tazo Edition](https://github.com/DannySol1s/Duel-Disks-Tazo-Edition)** | Simulador de duelos de cartas con selección ciega, máquina de estados por fase y resolución de combate entre jugadores locales | `Svelte 5` `TypeScript` `Vite` |
 
 </div>
 
