@@ -47,9 +47,9 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el des
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-pi-ten-40.vercel.app/api/top-langs/?username=DannySol1s&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&locale=es" alt="Lenguajes más usados por DannySol1s" />
+<img height="180em" src="./profile/top-langs.svg" alt="Lenguajes más usados por DannySol1s" />
 
-<img src="https://streak-stats.demolab.com/?user=DannySol1s&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&locale=es" alt="Racha de contribuciones de DannySol1s" />
+<img src="https://github-readme-streak-stats-lyart-ten.vercel.app/?user=DannySol1s&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&locale=es" alt="Racha de contribuciones de DannySol1s" />
 
 </div>
 
